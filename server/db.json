@@ -2,13 +2,13 @@
     "doors": [
         {
             "id": "1",
-            "name": "Front Door",
-            "status": "open"
+            "name": "Main Entrance",
+            "material": "Wood"
         },
         {
             "id": "2",
             "name": "Back Door",
-            "status": "closed"
+            "material": "Metal"
         }
     ]
 }
